@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 ## Let's Connect :sunglasses:
 <p align="center">
 <a href="https://www.drymak.tk/"><img alt="Website" src="https://img.shields.io/badge/Website-www.drymak.tk-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/kerolos-gad/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-kerolos-gad-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/kerolos-gad/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Abdelrahman%20Abdelnasser%20Gamal-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/abdelrahman.abdelnasser.gamal/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Abdelrahman-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:18147@stemegypt.edu.eg"><img alt="Email" src="https://img.shields.io/badge/Email-18147@stemegypt.edu.eg-blue?style=flat-square&logo=gmail"></a>
 </p>
