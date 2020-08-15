@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 
 <dl>
   <dt>My Vision </dt>
-  <dd>Making all the technology connected and automated with the cloud</dd>
+  <dd>Making all the technology connected and automated with the cloud.</dd>
 
   <dt>My Mission</dt>
-  <dd>Building the best web and cloud solutions</dd>
+  <dd>Building the best web and cloud solutions with the lowest cost and the most efficiency.</dd>
 </dl>
 
 |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
