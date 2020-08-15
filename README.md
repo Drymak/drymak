@@ -59,17 +59,17 @@ Here are some ideas to get you started:
 :bowtie: HTML
 :smile: CSS
 :satisfied: JAVASCRIPT
-:laughing: REACT
-:blush: Technical Writing
+:laughing: Sass
+:blush: Python
 :smiley: Git
-:relaxed: NODEJS
-:astonished: Python
-:smiley: C++
-:heart_eyes: Jquery
+:relaxed: Docker
+:astonished: Kubernetes
+:smiley: Linux Servers
+:heart_eyes: Windows Servers
 :hushed: UX&UI
-:smiley: Git
-:relaxed: Linux
-:satisfied: AI & Machine Learning
+:smiley: N+
+:relaxed: CCNA
+:satisfied: CNSS
 
 
 
