@@ -39,9 +39,9 @@ Here are some ideas to get you started:
 | [**FEND-Capstone-Travel-App**](https://github.com/kabaka121212/FEND-Capstone-Travel-App) | [![GitHub issues](https://img.shields.io/github/issues/kabaka121212/FEND-Capstone-Travel-App?color=green&logo=github&style=flat)](https://github.com/kabaka121212/FEND-Capstone-Travel-App/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/kabaka121212/FEND-Capstone-Travel-App?style=flat&logo=github)](https://github.com/kabaka121212/FEND-Capstone-Travel-App/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/kabaka121212/FEND-Capstone-Travel-App?style=flat&color=critical&logo=github)](https://github.com/kabaka121212/FEND-Capstone-Travel-App/pulls?q=is%3Apr+is%3Aclosed)   |
 
 
-**Say Hi on Twitter([@abdelra29504016](https://twitter.com/abdelra29504016))!** :heart: 💬
+**Say Hi on Twitter([@kerolos3kamal](https://twitter.com/kerolos3kamal))!** :heart: 💬
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/abdelra29504016?style=social)](https://twitter.com/abdelra29504016)
+[![Twitter Follow](https://img.shields.io/twitter/follow/kerolos3kamal?style=social)](https://twitter.com/kerolos3kamal)
 <!--
 **pavlyhalim/pavlyhalim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
