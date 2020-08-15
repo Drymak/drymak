@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 <a href="https://www.abdelrahman-18036.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.abdelrahman.18036.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/abdelrahman-abdelnasser-gamal-9bb4a8198/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Abdelrahman%20Abdelnasser%20Gamal-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/abdelrahman.abdelnasser.gamal/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Abdelrahman-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:kerolos@plebits.com"><img alt="Email" src="https://img.shields.io/badge/Email-kerolos@plebits.com-blue?style=flat-square&logo=g0mail"></a>
+<a href="mailto:kerolos@plebits.com"><img alt="Email" src="https://img.shields.io/badge/Email-18036@stemegypt.edu.eg-blue?style=flat-square&logo=g0mail"></a>
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
