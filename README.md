@@ -75,8 +75,8 @@ Here are some ideas to get you started:
 
 <br/>
 <a href="https://github.com/drymak">
-  <img height="160em" width="320" src="https://github-readme-stats.vercel.app/api?username=drymak&theme=dracula&show_icons=true" />
-  <img height="160em" width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drymak&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api?username=drymak&theme=dracula&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drymak&theme=dracula" />
 </a>
 
 <br/>
