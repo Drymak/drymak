@@ -82,9 +82,9 @@ Here are some ideas to get you started:
 
 ## Let's Connect :sunglasses:
 <p align="center">
-<a href="https://www.codexeg.net/"><img alt="Website" src="https://img.shields.io/badge/Website-www.drymak.me-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.codexeg.net/"><img alt="Website" src="https://img.shields.io/badge/Website-www.codexeg.net-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/kerolosxgad/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kerolos%20Gad-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/kerolosxgad/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Kerolos%20Kamal%20Kamel-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/kerolosxgad/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Kerolos%20Gad-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:kerolos.gad@codexeg.net"><img alt="Email" src="https://img.shields.io/badge/Email-kerolos.gad@codexeg.net-blue?style=flat-square&logo=gmail"></a>
 </p>
 
