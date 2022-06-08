@@ -38,9 +38,9 @@ Here are some ideas to get you started:
 | [**Ignite-STEM-6-October-Website**](https://github.com/drymak/ignite6oct) | [![GitHub issues](https://img.shields.io/github/issues/drymak/ignite6oct?color=green&logo=github&style=flat)](https://github.com/drymak/ignite6oct/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/drymak/ignite6oct?style=flat&logo=github)](https://github.com/drymak/ignite6oct/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/drymak/ignite6oct?style=flat&color=critical&logo=github)](https://github.com/drymak/ignite6oct/pulls?q=is%3Apr+is%3Aclosed)   |
 
 
-**Say Hi on Twitter([@kerolos3kamal](https://twitter.com/kerolos3kamal))!** :heart: 💬
+**Say Hi on Twitter([@kerolosxgad](https://twitter.com/kerolosxgad))!** :heart: 💬
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/kerolos3kamal?style=social)](https://twitter.com/kerolos3kamal)
+[![Twitter Follow](https://img.shields.io/twitter/follow/kerolosxgad?style=social)](https://twitter.com/kerolosxgad)
 <!--
 **pavlyhalim/pavlyhalim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -82,9 +82,9 @@ Here are some ideas to get you started:
 
 ## Let's Connect :sunglasses:
 <p align="center">
-<a href="https://www.drymak.me/"><img alt="Website" src="https://img.shields.io/badge/Website-www.drymak.me-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/kerolos-gad/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kerolos%20Gad-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/kerolos3kamal/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Kerolos%20Kamal%20Kamel-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.codexeg.net/"><img alt="Website" src="https://img.shields.io/badge/Website-www.drymak.me-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/kerolosxgad/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kerolos%20Gad-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/kerolosxgad/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Kerolos%20Kamal%20Kamel-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:kerolos.gad@codexeg.net"><img alt="Email" src="https://img.shields.io/badge/Email-kerolos.gad@codexeg.net-blue?style=flat-square&logo=gmail"></a>
 </p>
 
